@@ -4,8 +4,8 @@
 
 <p align="center">
 Soy ingeniero en informática enfocado en el desarrollo de soluciones de software que resuelven problemas complejos de manera eficiente y escalable. 
-Mi interés principal es la programación como herramienta para abordar desafíos de alto nivel: desde diseñar arquitecturas robustas hasta implementar sistemas que optimicen procesos reales. 
-Me apasiona analizar problemas, estructurar soluciones claras y mantener un equilibrio entre rendimiento, mantenibilidad y escalabilidad.
+Mi interés principal es la programación como herramienta para abordar desafíos de alto nivel: desde diseñar arquitecturas robustas hasta implementar sistemas que optimicen procesos reales,
+analizar problemas, estructurar soluciones claras y mantener un equilibrio entre rendimiento, mantenibilidad y escalabilidad.
 </p>
 >
 
