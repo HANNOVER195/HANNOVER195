@@ -40,7 +40,7 @@ analizar problemas, estructurar soluciones claras y mantener un equilibrio entre
 <!-- Tecnologías que estoy aprendiendo -->
 <h3 align="center">📚 Lo que estoy aprendiendo</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=postman,docker,kubernetes,electron,express&perline=5" alt="Tecnologías en aprendizaje" />
+        <img src="https://skillicons.dev/icons?i=postman,docker,kubernetes,tauri,express&perline=5" alt="Tecnologías en aprendizaje" />
         </p>
   
   </td>
